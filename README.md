@@ -19,6 +19,12 @@ This project is an interactive GUI program written in C++ designed to calculate 
 - **Operating Systems:** Windows
 - **Memory Usage:** up to 50MB
 
+## Demonstration
+
+Check out the video demonstration of the project on YouTube:
+
+[![Watch the video](https://img.youtube.com/vi/BZ18J_q_MDY/maxresdefault.jpg)](https://youtu.be/BZ18J_q_MDY)
+
 ## Installation Instructions
 
 - Full instructions locatied in the "Installation Instructions.txt"
