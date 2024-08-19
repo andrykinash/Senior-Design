@@ -1,4 +1,4 @@
-# Art Gallery Surveillance Optimization
+# Interactive Art Gallery Guarding
 
 ## Overview
 
